@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Homepage search, combined categories, empty results and recipe navigation",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "Details, ingredient checkboxes, ratings and review add/edit/delete",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "Account validation, invalid credentials, registration and logout",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "Recipe create/edit/delete, image validation/preview and dynamic fields",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "Cancelling logout preserves the mock session and unsaved recipe",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "Corrupt image is rejected without replacing the preview",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "Loading, empty, error/retry and unavailable pages",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "All five screens fit at 360px",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "All five screens fit at 768px",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "All five screens fit at 1440px",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  },
+  {
+    "name": "Long valid recipe text wraps at mobile and tablet widths",
+    "status": "passed",
+    "errors": [],
+    "consoleErrors": [],
+    "warnings": []
+  }
+]

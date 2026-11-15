@@ -1,0 +1,10 @@
+M1/frontend/node_modules/
+M1/frontend/dist/
+M1/frontend/coverage/
+M1/frontend/.eslintcache
+M1/frontend/.vite/
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
